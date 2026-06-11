@@ -38,7 +38,7 @@ La herramienta integra información demográfica, urbanística, económica y ter
 ## Ejecución
 
 ```bash
-streamlit run app.py
+streamlit run app_v2.py
 ```
 
 ## Autor
