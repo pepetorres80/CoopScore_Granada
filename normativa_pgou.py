@@ -41,7 +41,7 @@ PARCELAS_PATH = Path(os.getenv("PGOU_PARCELAS_PATH", str(_BASE_DIR / "parcelas_g
 
 # La API key se lee de la variable de entorno ANTHROPIC_API_KEY
 # (Streamlit Secrets también funciona si la defines ahí)
-MODELO     = "claude-sonnet-4-20250514"
+MODELO     = "claude-haiku-4-5-20251001"
 MAX_TOKENS = 1024
 N_CHUNKS   = 5   # Número de artículos a recuperar por consulta
 
